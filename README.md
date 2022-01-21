@@ -38,6 +38,8 @@ From the zipped data provided, I used imdb based csv files to narrow down three 
 - Retrieved the most frequent month that movies were released (January) using mode
 - Grouped my data by month, to get a clearer understanding of how the month of release date intersects with popularity
 
+![Popularity]("Popularity.png")
+
 **Data Analysis – Studios and Domestic Gross income**
 
 - Retrieved information on what information exist currently in the csv file 
@@ -45,11 +47,15 @@ From the zipped data provided, I used imdb based csv files to narrow down three 
 - Joined the gross csv and title csv 
 - Grouped the joined csv files by studio and sorted by domestic gross
 
+![Studio]("Studio.png")
+
 **Data analysis – Genre and domestic gross income**
 - Retrieved information on what information exist currently in the csv file 
 - Imported the title basics csv 
 - Joined the gross csv and title csv 
 - Grouped the joined csv files by genre and sorted by domestic gross
+
+![Genre]("Genre.png")
 
 ## Results & Conclusions
 
